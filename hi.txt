@@ -1,1 +1,2 @@
 this is a new file. Adding first sentence.
+this is 2nd sentence in the file hi.txt
