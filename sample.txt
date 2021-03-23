@@ -1,6 +1,4 @@
 this is a sample file created by dev1
-<<<<<<< HEAD
 dev2 added another line
-=======
 dev1 creates another line
->>>>>>> 177c9396ede395ebe1701d0c86e41b23d01be822
+
