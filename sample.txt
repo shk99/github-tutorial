@@ -1,1 +1,2 @@
 this is a sample file created by dev1
+dev2 added another line
